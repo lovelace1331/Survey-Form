@@ -1,0 +1,15 @@
+body {
+  background-size: auto;
+  background-image: url('lappic1.jpg');
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+#survey-form {
+  width: 50%;
+  margin: auto;
+}
+.form-group {
+  color: white;
+}
